@@ -24,7 +24,8 @@ spec:
     spec:
       containers:
       - name: mongodb
-        image: mongodb:1.0.0
+        image: vasimphatan/mongodb:1.0.0
+      
 
 ---
 apiVersion: v1 
