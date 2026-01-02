@@ -13,8 +13,8 @@ spec:
   selector:
     MatchLabels:
       app: mongodb
-       tier: mongodb
-       project: roboshop
+      tier: mongodb
+      project: roboshop
   template:
     metadata:
       labels:
